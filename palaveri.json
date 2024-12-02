@@ -1,0 +1,10 @@
+{"aihe":"Asiakaspalautteet",
+
+ "lukumaara":"5 henkilöä",
+
+ "nimet":["Anna-Maija", "Pirkko-Liisa", "Vesa-Matti", "Veijo-Keijo", "Liisa-Kalle"],
+
+ "aloitus":[{"paikka":"Haaga-Helian ammattikorkeakoulu, Helsinki"},
+            {"alkaa":"klo 18.30"},
+            {"kesto":"2 tuntia"}]
+}
